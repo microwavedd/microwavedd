@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=microwavedd" alt="microwavedd" /></a> </p>
 
-- 🔭 I’m currently working on making the Still Alive song from portal into the terminal using Python. [ClasePersonajeMolde](https://github.com/microwavedd/ClasePersonajeMolde)
+- 🔭 I’m currently working on making the Still Alive song from portal into the terminal using Python.
 
-- 👯 I’m looking to collaborate in anything I can, (if I'm skilled enough to do so) [Portal-Still Alive in terminal](https://github.com/microwavedd/Portal---Still-Alive-in-terminal.)
+- 👯 I’m looking to collaborate in anything I can, (if I'm skilled enough to do so) 
 
 - 🌱 I’m currently learning Python, Lua and some Arduino (C++) Shenanigans.
 
