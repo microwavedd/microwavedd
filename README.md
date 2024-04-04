@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Microwavedd</h1>
-<h3 align="center">A (kinda newbie) developer from Spain</h3>
+<h3 align="center">A developer from Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=microwavedd&label=Profile%20views&color=0e75b6&style=flat" alt="microwavedd" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=microwavedd" alt="microwavedd" /></a> </p>
 
-- 🔭 I’m currently not working on anything, but open to anything!
+- 🔭 I’m currently working on nothing at all.
 
 - 👯 I’m looking to collaborate in anything I can, (if I'm skilled enough to do so) 
 
-- 🌱 I’m currently learning Python, Lua and some Arduino (C++) Shenanigans.
+- 🌱 I’m currently learning Python, Lua, 3D modelling and some Arduino/C++.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
