@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=microwavedd" alt="microwavedd" /></a> </p>
 
-- 🔭 I’m currently working on nothing at all.
-
-- 👯 I’m looking to collaborate in anything I can, (if I'm skilled enough to do so) 
-
-- 🌱 I’m currently learning Python, Lua, 3D modelling and some Arduino/C++.
+- 👯 I’m looking to collaborate in anything I can.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
